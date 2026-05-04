@@ -71,7 +71,7 @@ Health and nutrition ecom website helping people find products suiting their hea
 
 **Focus:** classification, feature engineering, model evaluation.
 
-`Laravel` `React.js` `Power BI` `Rest API` `Python` `Scikit-learn` `Pandas` `ML Pipeline` ``Mongodb`
+`Laravel` `React.js` `Power BI` `Rest API` `Python` `Scikit-learn` `Pandas` `ML Pipeline` `Mongodb`
 
 ---
 
