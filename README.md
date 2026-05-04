@@ -1,4 +1,4 @@
-# Hi, I'm Halima Sabri 👋
+# Hi, I'm Halima Sabri 
 
 **Business Intelligence & Data Science Student**
 
@@ -16,7 +16,7 @@ Currently completing my internship where I am building an **intelligence dashboa
 
 I approach every project with seriousness, precision and a long-term mindset. My goal is to grow as a data analyst and AI systems builder — creating tools that are not just technically sound, but genuinely useful.
 
-🗣️ **Languages:**
+ **Languages:**
 `Tamazight (native)` `Arabic (C1)` `French (B2)` `English (C1)` `Spanish (B1)` `Italian (A2)`
 
 ---
