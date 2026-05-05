@@ -93,7 +93,7 @@ Interactive BI dashboard surfacing key academic and operational metrics.
 
 ---
 
-### Vitanova: Health and nutrition and assistant chatbot  *(PFE)*
+### Vitanova: Health, nutrition and assistant chatbot  *(PFE)*
 Health and nutrition ecom website helping people find products suiting their health conditions using an assistant chatbot.
 
 **Focus:** classification, feature engineering, model evaluation.
@@ -118,7 +118,7 @@ Full-stack fancy restaurant website built using angular and laravel.
 
 `Laravel` `Angular` `Rest API` `MySQL`
 
-*and many more projects* 
+ ***and many more projects*** 
 
 ---
 
