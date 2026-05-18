@@ -122,18 +122,6 @@ Full-stack fancy restaurant website built using angular and laravel.
 
 ---
 
-## How I Work
-
-| Step | Focus | What I do |
-|---|---|---|
-| 01 | Understand the data | Explore structure, quality, missing values and what the data actually represents |
-| 02 | Define the objective | Clarify what insight or prediction is needed and for whom |
-| 03 | Build & iterate | Develop models or systems step by step, validating at each stage |
-| 04 | Visualize & communicate | Present results clearly through dashboards and structured reports |
-| 05 | Document everything | Write clean documentation so the work is reproducible and understandable |
-
----
-
 ## What Drives Me
 
 `Hard work` `Precision` `Continuous learning` `Delivering real results` `Professionalism`
