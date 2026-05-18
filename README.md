@@ -1,4 +1,4 @@
- ## Hey, I'm Halima Sabri 
+  ## Hey, I'm Halima Sabri 
 
 **Business Intelligence & Data Science Student**
 
