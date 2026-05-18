@@ -89,7 +89,7 @@ Interactive BI dashboard surfacing key academic and operational metrics.
 
 **Focus:** data visualization, KPIs, filters, real-time insight display.
 
-`Power BI` `SQL` `ETL` `Talend` `Python` `Scikit-learn` `Pandas` `ML Pipeline` `Laravel` `Livewire` `MySQL`
+`SQL` `Python` `Scikit-learn` `Pandas` `ML Pipeline` `Laravel` `Livewire` `MySQL`
 
 ---
 
