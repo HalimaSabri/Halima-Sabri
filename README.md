@@ -33,9 +33,9 @@ I approach every project with seriousness, precision and a long-term mindset. My
  
 </div>
 <div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=halimasabri&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=HalimaSabri&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117&count_private=true" />
 &nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=halimasabri&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalimaSabri&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117" />
 </div>
 ---
  
