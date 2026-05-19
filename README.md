@@ -3,13 +3,13 @@
 <a href="https://github.com/halimasabri">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=55&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Halima+Sabri" alt="Halima Sabri" />
 </a>
+  
 ### `Business Intelligence & Data Science Student`
  
 *Turning raw data into insight — building AI-powered systems and intelligent dashboards that drive real decisions.*
- 
-<br/>
-![Status](https://img.shields.io/badge/🟢_Currently-Internship_@_Marketing_&_Coding_Factory-111111?style=for-the-badge&labelColor=111111&color=222222)
- 
+
+🟢 **Currently:** Internship @ Marketing and coding factory — AI Success Predictor & Intelligence Dashboard 
+
 </div>
 ---
  
@@ -29,7 +29,7 @@ I approach every project with seriousness, precision and a long-term mindset. My
 ## 📊 Streak & Stats
  
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=halimasabri&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=333333&background=0D1117)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=HalimaSabri&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=333333&background=0D1117)](https://git.io/streak-stats)
  
 </div>
 <div align="center">
