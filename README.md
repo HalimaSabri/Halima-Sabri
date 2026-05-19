@@ -1,6 +1,6 @@
 <!-- Typing animation for name -->
 <div align="center">
-<a href="https://github.com/halimasabri">
+<a href="https://github.com/HalimaSabri">
   <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=55&duration=3000&pause=2000&color=FFFFFF&center=true&vCenter=true&width=700&height=90&lines=Halima+Sabri" alt="Halima Sabri" />
 </a>
   
