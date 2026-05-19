@@ -119,7 +119,6 @@ Full-stack fancy restaurant website built using angular and laravel.
 `Laravel` `Angular` `Rest API` `MySQL`
 
  ***and many more projects*** 
-
 ---
 
 ## What Drives Me
