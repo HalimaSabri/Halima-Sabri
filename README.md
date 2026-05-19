@@ -30,14 +30,15 @@ I approach every project with seriousness, precision and a long-term mindset. My
 ## 📊 Streak & Stats
  
 <div align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=HalimaSabri&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=333333&background=0D1117)](https://git.io/streak-stats)
- 
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=HalimaSabri&theme=github-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=333333&background=0D1117" alt="GitHub Streak" />
+  </a>
+  <br/><br/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HalimaSabri&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117&count_private=true&cache_seconds=1800" alt="Halima's GitHub Stats" />
+  &nbsp;&nbsp;
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalimaSabri&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&cache_seconds=1800" alt="Top Languages" />
 </div>
-<div align="center">
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HalimaSabri&show_icons=true&theme=github_dark&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&bg_color=0d1117&count_private=true&cache_seconds=1800" />
-&nbsp;&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalimaSabri&layout=compact&theme=github_dark&hide_border=true&title_color=ffffff&text_color=aaaaaa&bg_color=0d1117&cache_seconds=1800" />
-</div>
+
 ---
  
 ## Technical Focus
