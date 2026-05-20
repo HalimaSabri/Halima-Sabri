@@ -137,6 +137,7 @@ Full-stack fancy restaurant website built using Angular and Laravel.
 **Focus:** backend architecture, authentication, REST APIs, UI integration.
  
 `Laravel` `Angular` `Rest API` `MySQL`
+
  
 *and many more projects*
  
