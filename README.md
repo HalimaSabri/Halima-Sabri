@@ -47,7 +47,7 @@ I approach every project with seriousness, precision and a long-term mindset. My
 |---|---|---|
 | Data analysis | Scikit-learn | Laravel |
 | SQL | Python | Spring Boot |
-| Power BI | Predictive models | React |
+| Power BI | Predictive models | React.js |
 | Excel | Classification | Angular |
 | Talend ETL | Data pipelines | Livewire · REST APIs |
  
@@ -138,7 +138,6 @@ Full-stack fancy restaurant website built using Angular and Laravel.
  
 `Laravel` `Angular` `Rest API` `MySQL`
 
- 
 *and many more projects*
  
 ---
