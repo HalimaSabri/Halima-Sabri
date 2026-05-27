@@ -18,7 +18,7 @@
  
 Final-year **Business Intelligence and Data Science** student at **EST Nador**, soon to graduate with a strong foundation in data analytics, machine learning and full-stack development.
  
-Currently completing my internship where I am building an **intelligence dashboard** with an **AI-based success predictor** — two systems designed to surface meaningful insights from complex academic and operational data.
+Currently  completing my internship where I am building an **intelligence dashboard** with an **AI-based success predictor** — two systems designed to surface meaningful insights from complex academic and operational data.
  
 I approach every project with seriousness, precision and a long-term mindset. My goal is to grow as a data analyst and AI systems builder — creating tools that are not just technically sound, but genuinely useful.
  
