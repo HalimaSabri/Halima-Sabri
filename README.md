@@ -8,7 +8,7 @@
  
 *Turning raw data into insight — building AI-powered systems and intelligent dashboards that drive real decisions.*
 
-🟢 **Currently:**  Finished an internship @ Marketing and coding factory — AI Success Predictor & Intelligence Dashboard 
+🟢 **Currently:** Finished an internship @ Marketing and coding factory — AI Success Predictor & Intelligence Dashboard 
 
 </div>
 
