@@ -116,7 +116,7 @@ Interactive BI dashboard surfacing key academic and operational metrics.
 ### Vitanova: Health, nutrition and assistant chatbot *(PFE)*
 Health and nutrition ecom website helping people find products suiting their health conditions using an assistant chatbot.
  
-**Focus:** classification, feature engineering, model evaluation .
+**Focus:** classification, feature engineering, model evaluation.
  
 `Laravel` `React.js` `Power BI` `Rest API` `Python` `Scikit-learn` `Pandas` `ML Pipeline` `Mongodb`
  
