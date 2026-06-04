@@ -125,7 +125,7 @@ Health and nutrition ecom website helping people find products suiting their hea
 ### CV-generator *(academic)*
 Full-stack project built to help people customize their CVs.
  
-**Focus:** backend architecture, authentication, REST APIs, UI integration.
+**Focus:** backend architecture, authentication, REST APIs, UI integration .
  
 `Laravel` `Blade` `Rest API` `MySQL`
  
