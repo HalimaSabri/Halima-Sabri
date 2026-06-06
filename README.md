@@ -20,7 +20,7 @@ Final-year **Business Intelligence and Data Science** student at **EST Nador**, 
  
 I completed my internship where I built an **intelligence dashboard** with an **AI-based success predictor** — two systems designed to surface meaningful insights from complex academic and operational data.
  
-I approach every project with seriousness, precision and a long-term mindset. My goal is to grow as a data analyst and AI systems builder — creating tools that are not just technically sound, but genuinely useful.
+I approach every project with seriousness, precision and a long-term mindset. My goal is to grow as a data analyst and AI systems builder — creating tools that are not just technically sound, but genuinely useful .
  
 **Languages:**
 `Tamazight (native)` `Arabic (C1)` `French (B2)` `English (C1)` `Spanish (B1)` `Italian (A2)`
