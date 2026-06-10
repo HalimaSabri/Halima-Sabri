@@ -8,7 +8,7 @@
  
 *Turning raw data into insight — building AI-powered systems and intelligent dashboards that drive real decisions.*
 
-🟢 **Current
+🟢 **C
 </div>
 
 ---
