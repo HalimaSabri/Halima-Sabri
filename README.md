@@ -13,7 +13,7 @@
  
 ## About me
  
-Final-year **Business Intelligence and Data Science** student at **EST Nador**, soon to graduate with a strong foundation in data analytics, machine learning and full-stack development.
+Final-year **Business Intelligence and Data Science** student at **EST Nador**, soon to graduate with a strong foundation in data analytics, machine learning and full-stack development .
  
 I completed my internship where I built an **intelligence dashboard** with an **AI-based success predictor** — two systems designed to surface meaningful insights from complex academic and operational data.
  
